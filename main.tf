@@ -25,7 +25,7 @@ terraform {
 }
 
 variable "num_webs" {
-  default = "2"
+  default = "3"
 }
 
 variable "aws_access_key" {
