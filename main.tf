@@ -18,6 +18,8 @@
 #     terraform-training-sheep
 #
 
+error
+
 terraform {
   backend "atlas" {
     name = "jmtcsngr/training"
